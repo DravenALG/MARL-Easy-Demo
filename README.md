@@ -21,16 +21,16 @@ More specifically, all agents are globally **rewarded based on** how far the clo
 ### Config 
 1. Clone Multi-Agent Particle Environments (MPE).
 
-	
-	git clone https://github.com/shariqiqbal2810/multiagent-particle-envs.git
-	cd multiagent-particle-envs
-	pip install -e .
+		
+		git clone https://github.com/shariqiqbal2810/multiagent-particle-envs.git
+		cd multiagent-particle-envs
+		pip install -e .
 
 
 2. Download the dependent libraries.
 
 	
-    python -m pip install tqdm matplotlib seaborn gym==0.9.4 pyglet==1.2.4 torch==1.13.1
+    	python -m pip install tqdm matplotlib seaborn gym==0.9.4 pyglet==1.2.4 torch==1.13.1
 
 
 ### Train and Test the Model
